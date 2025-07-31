@@ -24,3 +24,6 @@
 
 - base done: im speeding running this rn aaaaaaaaaaaaaaaaaa
 <img width="889" height="472" alt="image" src="https://github.com/user-attachments/assets/7cf5047f-eb5b-4329-a7b9-c78d147a69b1" />
+
+- made back side and side wall:
+<img width="736" height="531" alt="image" src="https://github.com/user-attachments/assets/a3c8bb08-8122-41ab-9e40-879f1a754033" />
