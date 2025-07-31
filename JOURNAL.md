@@ -21,3 +21,6 @@
 - brainstormed some more design to create something unique.
 - recreated this again, mistaken closed window :(((((((((((((
  <img width="846" height="749" alt="image" src="https://github.com/user-attachments/assets/78e891d7-b4ea-45a6-8794-068ecdd9f918" />
+
+- base done: im speeding running this rn aaaaaaaaaaaaaaaaaa
+<img width="889" height="472" alt="image" src="https://github.com/user-attachments/assets/7cf5047f-eb5b-4329-a7b9-c78d147a69b1" />
