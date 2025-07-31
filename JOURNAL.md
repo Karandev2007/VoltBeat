@@ -16,7 +16,7 @@
 - I will be making something like this as im heavily inspired with this design.
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/bdbef8be-0c5e-4518-a1a3-94e16d1d9726" />
 
-### July 31 - Time Spend: 5h 40m
+### July 31 - Time Spend: 6h 10m
 - made circuit diagram and sourced all the components.
 - brainstormed some more design to create something unique.
 - recreated this again, mistaken closed window :(((((((((((((
@@ -54,3 +54,8 @@
 <img width="534" height="437" alt="image" src="https://github.com/user-attachments/assets/99be5c8a-8f40-4a44-a54f-641d6a16a1e4" />
 <img width="602" height="494" alt="image" src="https://github.com/user-attachments/assets/443bafff-2b8a-4cdc-9520-42d693c0cf33" />
 <img width="590" height="448" alt="image" src="https://github.com/user-attachments/assets/1e666991-3cc8-477c-8498-28ff84920e09" />
+
+- Exported all parts to CAD folder
+- Made BOM and finished readme.md for submission :D
+
+# Total time spent: 9h 10m
