@@ -1,4 +1,4 @@
-# VoltBeat Development Journal
+# Voltune Development Journal
 
 ---
 
@@ -16,7 +16,7 @@
 - I will be making something like this as im heavily inspired with this design.
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/bdbef8be-0c5e-4518-a1a3-94e16d1d9726" />
 
-### July 31 - Time Spend: 4 hour
+### July 31 - Time Spend: 5h 40m
 - made circuit diagram and sourced all the components.
 - brainstormed some more design to create something unique.
 - recreated this again, mistaken closed window :(((((((((((((
@@ -33,3 +33,24 @@
 
 - made holes for speakers
 <img width="631" height="548" alt="image" src="https://github.com/user-attachments/assets/88683749-3010-45f4-8e1b-e578c28d7402" />
+
+- made header lid with curved edges for good looks.
+<img width="296" height="270" alt="Fusion360_IJQ3KfZXlf" src="https://github.com/user-attachments/assets/bd05c66c-e8de-4b20-b680-e53348281b1a" />
+
+- here is look with speakers:
+<img width="349" height="306" alt="Fusion360_gR6JmwJeG2" src="https://github.com/user-attachments/assets/5a8f4022-e815-4d20-98d1-f8bbe538704f" />
+
+- making stands for bottom to lift off and also give modern vibes out of this.
+<img width="170" height="166" alt="Fusion360_Mxjyuso9lo" src="https://github.com/user-attachments/assets/0071d94c-eda0-48da-bc0b-829ab9d7f399" />
+
+- finished speaker look:
+<img width="213" height="162" alt="Fusion360_6w04ekSREp" src="https://github.com/user-attachments/assets/77caedce-4be6-4a74-84b8-64a112807bed" />
+
+
+## THISSSS IS WANT I WANTEDDDD YAAAAAY!!!
+
+- might replace the skin with carbon fiber skin :)))))))))
+
+<img width="534" height="437" alt="image" src="https://github.com/user-attachments/assets/99be5c8a-8f40-4a44-a54f-641d6a16a1e4" />
+<img width="602" height="494" alt="image" src="https://github.com/user-attachments/assets/443bafff-2b8a-4cdc-9520-42d693c0cf33" />
+<img width="590" height="448" alt="image" src="https://github.com/user-attachments/assets/1e666991-3cc8-477c-8498-28ff84920e09" />
