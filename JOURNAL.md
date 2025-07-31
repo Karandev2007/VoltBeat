@@ -16,7 +16,7 @@
 - I will be making something like this as im heavily inspired with this design.
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/bdbef8be-0c5e-4518-a1a3-94e16d1d9726" />
 
-### July 31 - Time Spend: 3 hour
+### July 31 - Time Spend: 4 hour
 - made circuit diagram and sourced all the components.
 - brainstormed some more design to create something unique.
 - recreated this again, mistaken closed window :(((((((((((((
@@ -25,5 +25,11 @@
 - base done: im speeding running this rn aaaaaaaaaaaaaaaaaa
 <img width="889" height="472" alt="image" src="https://github.com/user-attachments/assets/7cf5047f-eb5b-4329-a7b9-c78d147a69b1" />
 
+- fixed measurements 
+<img width="668" height="547" alt="image" src="https://github.com/user-attachments/assets/4d48b00b-c4d8-4af3-841b-60b1c7ae9402" />
+
 - made back side and side wall:
 <img width="736" height="531" alt="image" src="https://github.com/user-attachments/assets/a3c8bb08-8122-41ab-9e40-879f1a754033" />
+
+- made holes for speakers
+<img width="631" height="548" alt="image" src="https://github.com/user-attachments/assets/88683749-3010-45f4-8e1b-e578c28d7402" />
