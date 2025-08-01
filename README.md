@@ -20,7 +20,7 @@ A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom speaker configura
 
 ## BOM
 
-| Components | Amount | Price | Buy Link |
+| Components | Amount | Total Price | Buy Link |
 |---|---|---|---|
 | Bluetooth 5.0 Audio Receiver | 1 | $3.93 | [link](https://robocraze.com/products/dfrobot-bluetooth-5-0-audio-receiver-board) |
 | PAM 8403 Amplifier Module with Knob | 2 | $1.42 | [link](https://robocraze.com/products/pam-8403-amplifier-module) |
