@@ -7,6 +7,7 @@ A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom speaker configura
 <img width="300" height="340" alt="Fusion360_LcP7Uev8lf" src="https://github.com/user-attachments/assets/86bb8f8d-ec08-4b7b-9517-6e5fcff153bc" />
 <p>
 <img width="846" height="749" alt="image" src="https://github.com/user-attachments/assets/84f4405b-f04c-4b18-9cde-b42529843924" />
+note: that 2nd one is amplifer 2 not 1.
 
 ## CAD
 
