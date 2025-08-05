@@ -1,4 +1,4 @@
-| Components | Amount | Price | Buy Link |
+| Components | Amount | Total Price | Buy Link |
 |---|---|---|---|
 | Bluetooth 5.0 Audio Receiver | 1 | $3.93 | [link](https://robocraze.com/products/dfrobot-bluetooth-5-0-audio-receiver-board) |
 | PAM 8403 Amplifier Module with Knob | 2 | $1.42 | [link](https://robocraze.com/products/pam-8403-amplifier-module) |
@@ -9,9 +9,10 @@
 | Type-C USB PCB Breakout Board | 2 | $0.44 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
 | Round Rocker | 3 | $0.45 | [link](https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst) |
 | 5V USB Power Bank Battery & Charger Module | 1 | $1.48 | [link](https://makerbazar.in/products/premium-5v-2-1a-3-usb-power-bank-battery-charger-module-circuit-board-step-up-boost-black?variant=40530965790871) |
+| 7mm glue sticks (pack) | 1 | $1.62 | [link](https://amzn.in/d/82Kc4X9) |
 | 2-Inch Speaker | 4 | $4.53 | [link](https://makerbazar.in/products/speaker-4-ohm-3-watt-2-inch-external-magnet-speaker) |
 | Miscs | $2 |
 
 Shipping and extra fees: $0.67 (robotcraze) + $0.46 (makerbazar)
 
-Total: $24.811
+## Total: $26.43
