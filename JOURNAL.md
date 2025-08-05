@@ -1,6 +1,11 @@
-# Voltune Development Journal
-
 ---
+title: "Voltune"
+author: "Karan"
+description: "A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom speaker configuration."
+created_at: "2025-08-01"
+---
+
+# Total time spent: 9h 10m
 
 ### July 13 — Time Spent: 2 hours
 
@@ -57,5 +62,3 @@
 
 - Exported all parts to CAD folder
 - Made BOM and finished readme.md for submission :D
-
-# Total time spent: 9h 10m
