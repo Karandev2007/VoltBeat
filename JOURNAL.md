@@ -5,7 +5,7 @@ description: "A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom spe
 created_at: "2025-08-01"
 ---
 
-# Total time spent: 9h 10m
+# Total time spent: 10h
 
 ### July 13 — Time Spent: 2 hours
 
@@ -62,3 +62,9 @@ created_at: "2025-08-01"
 
 - Exported all parts to CAD folder
 - Made BOM and finished readme.md for submission :D
+
+## August 5 - Time Spend: 1h
+
+- decrease height of voltune, added all remaining components which i found later that are used in this project in CAD, optimized the overall looks of voltune.
+<img width="414" height="288" alt="Fusion360_z8DX6Dvxr2" src="https://github.com/user-attachments/assets/9006105d-93ab-4e7d-85cf-a104dc32c215" />
+<img width="385" height="243" alt="Fusion360_6sKE0kg8F1" src="https://github.com/user-attachments/assets/7ad121f1-4141-4346-befd-20f14db0f733" />
