@@ -1,25 +1,38 @@
-# Voltune
-A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom speaker configuration. 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/653abbf5-da39-42a0-a1da-9defee609d4b" alt="Title Image" width="50%" height="30%">
+</div>
 
-- 2x 3W speakers on front and same config on sides, and you can choose which side speakers you want to use or both. you can think of that as normal/desktop speaker with party mode :D
+----
 
-<img width="300" height="340" alt="image" src="https://github.com/user-attachments/assets/d331480b-999d-42ef-8110-c5c7d1abb927" />
-<img width="300" height="340" alt="Fusion360_LcP7Uev8lf" src="https://github.com/user-attachments/assets/86bb8f8d-ec08-4b7b-9517-6e5fcff153bc" />
+<h3 align="center">Voltune - Modern Bluetooth Speaker & Powerbank</h3>
+
+- Voltune comes with 2x 3W speakers on the front and the same setup on the sides. you can switch between side speakers or use both at once, & with a in-built powerful 10000mAh Powerbank.
+
+----
+
+<img width="659" height="397" alt="image" src="https://github.com/user-attachments/assets/6e522340-92a6-482f-87ba-a73c08f81647" />
+<img width="659" height="397" alt="image" src="https://github.com/user-attachments/assets/6b4b1f99-6e85-4b98-9c75-b0171261ec0b" />
 <p>
+
+----
+  
+### Circuit Diagram
+  
 <img width="846" height="749" alt="image" src="https://github.com/user-attachments/assets/84f4405b-f04c-4b18-9cde-b42529843924" />
-note: that 2nd one is amplifer 2 not 1.
+
+**NOTE**: that 2nd one is amplifer 2 not 1.
+
+----
 
 ## CAD
 
-<img width="664" height="552" alt="image" src="https://github.com/user-attachments/assets/5de5df5a-8fba-40cd-b9de-259045a5d472" />
+<img width="577" height="369" alt="image" src="https://github.com/user-attachments/assets/fd4a0018-33ce-4db7-9520-33836fc7a1e6" />
 
-<img width="607" height="257" alt="image" src="https://github.com/user-attachments/assets/685009bf-579c-4d20-b329-36052b7e400f" />
+<img width="797" height="253" alt="image" src="https://github.com/user-attachments/assets/b046cc8a-242d-4c57-a8d7-b042e95c2988" />
 
-<img width="287" height="294" alt="image" src="https://github.com/user-attachments/assets/9e90b29d-fa57-4464-b0b5-6068fd584c8a" />
+<img width="269" height="318" alt="image" src="https://github.com/user-attachments/assets/04564757-051f-47ea-a848-682ee6137e7a" />
 
-<img width="800" height="593" alt="image" src="https://github.com/user-attachments/assets/39ffe2b6-332b-433a-bd2a-ddf91b5d70e3" />
-
-<img width="679" height="511" alt="image" src="https://github.com/user-attachments/assets/3f2c0bee-cb95-4ee9-9eae-c67df1968d08" />
+<img width="712" height="469" alt="image" src="https://github.com/user-attachments/assets/d46a8e6c-2a64-419d-a7ab-a47fc8bb0c9e" />
 
 ## BOM
 
@@ -34,9 +47,10 @@ note: that 2nd one is amplifer 2 not 1.
 | Type-C USB PCB Breakout Board | 2 | $0.44 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
 | Round Rocker | 3 | $0.45 | [link](https://makerbazar.in/products/round-rocker-switch-2-leg-pack-of-2-spst) |
 | 5V USB Power Bank Battery & Charger Module | 1 | $1.48 | [link](https://makerbazar.in/products/premium-5v-2-1a-3-usb-power-bank-battery-charger-module-circuit-board-step-up-boost-black?variant=40530965790871) |
+| 7mm glue sticks (pack) | 1 | $1.62 | [link](https://amzn.in/d/82Kc4X9) |
 | 2-Inch Speaker | 4 | $4.53 | [link](https://makerbazar.in/products/speaker-4-ohm-3-watt-2-inch-external-magnet-speaker) |
 | Miscs | $2 |
 
 Shipping and extra fees: $0.67 (robotcraze) + $0.46 (makerbazar)
 
-Total: $24.811
+Total: $26.43
