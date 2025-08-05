@@ -26,13 +26,13 @@
 
 ## CAD
 
+<img width="712" height="469" alt="image" src="https://github.com/user-attachments/assets/d46a8e6c-2a64-419d-a7ab-a47fc8bb0c9e" />
+
 <img width="577" height="369" alt="image" src="https://github.com/user-attachments/assets/fd4a0018-33ce-4db7-9520-33836fc7a1e6" />
 
 <img width="797" height="253" alt="image" src="https://github.com/user-attachments/assets/b046cc8a-242d-4c57-a8d7-b042e95c2988" />
 
 <img width="269" height="318" alt="image" src="https://github.com/user-attachments/assets/04564757-051f-47ea-a848-682ee6137e7a" />
-
-<img width="712" height="469" alt="image" src="https://github.com/user-attachments/assets/d46a8e6c-2a64-419d-a7ab-a47fc8bb0c9e" />
 
 ## BOM
 
