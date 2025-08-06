@@ -5,7 +5,7 @@ description: "A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom spe
 created_at: "2025-08-01"
 ---
 
-# Total time spent: 10h
+# Total time spent: 11h
 
 ### July 13 — Time Spent: 2 hours
 
@@ -68,3 +68,14 @@ created_at: "2025-08-01"
 - decrease height of voltune, added all remaining components which i found later that are used in this project in CAD, optimized the overall looks of voltune.
 <img width="414" height="288" alt="Fusion360_z8DX6Dvxr2" src="https://github.com/user-attachments/assets/9006105d-93ab-4e7d-85cf-a104dc32c215" />
 <img width="385" height="243" alt="Fusion360_6sKE0kg8F1" src="https://github.com/user-attachments/assets/7ad121f1-4141-4346-befd-20f14db0f733" />
+
+## August 6 - Time Spend: 1h
+
+- added screw holes for 3.5mm screws on top lid and body, and on base and base stands.
+<img width="525" height="336" alt="Fusion360_5Q7060bKMT" src="https://github.com/user-attachments/assets/4d807bfa-6d9a-4643-8000-cfbb7eefc216" />
+<img width="370" height="315" alt="Fusion360_UzQhku3cnc" src="https://github.com/user-attachments/assets/1bc8b8ab-614a-418c-ada2-9fcc09d17be0" />
+<img width="452" height="303" alt="Fusion360_89dx8ZnRil" src="https://github.com/user-attachments/assets/ab157c7e-3ee5-4719-b553-a95efde16825" />
+<img width="418" height="305" alt="Fusion360_teXrDLc0Mc" src="https://github.com/user-attachments/assets/6313e253-7452-410d-a756-b2d472e626b4" />
+
+- **final look**
+<img width="477" height="328" alt="Fusion360_WlrI8ZnQbt" src="https://github.com/user-attachments/assets/6c9e09fd-1ff5-4059-9050-37b40d2eb301" />
