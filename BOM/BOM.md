@@ -2,8 +2,10 @@
 |---|---|---|---|
 | Bluetooth 5.0 Audio Receiver | 1 | $3.93 | [link](https://robocraze.com/products/dfrobot-bluetooth-5-0-audio-receiver-board) |
 | PAM 8403 Amplifier Module with Knob | 2 | $1.42 | [link](https://robocraze.com/products/pam-8403-amplifier-module) |
+| Potentiometer Knob | 2 | $0.11 | [link](https://makerbazar.in/products/black-metal-potentiometer-knob?variant=46102342205680) |
 | 3.7V 10000mAh Li-Ion Battery | 1 | $8.68 | [link](https://robocraze.com/products/3-7v-10000mah-li-ion-battery) |
-| screws M3 | 10 | $0.23 | [link](https://novo3d.in/self-tapping-screws/) |
+| screws 3.5mm (3.5x18mm) pack | 1 | $0.10 | [link](https://makerbazar.in/products/drywall-gypsum-screw?variant=46223107457264) |
+| screws 3.5mm (3.5x13mm) pack | 1 | $0.091 | [link](https://makerbazar.in/products/drywall-gypsum-screw?variant=46218148970736) |
 | Ribbon Cable Wire | 1 | $0.43 | [link](https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914910281879) |
 | Black Heat Shrink Sleeve Tube (2.5mm) | 1 | $0.091 | [link](https://makerbazar.in/products/heat-shrink?variant=19627635212384) |
 | Type-C USB PCB Breakout Board | 2 | $0.44 | [link](https://makerbazar.in/products/type-c-usb-female-to-dip-pcb-breakout-board?variant=46337045299440) |
@@ -15,4 +17,4 @@
 
 Shipping and extra fees: $0.67 (robotcraze) + $0.46 (makerbazar)
 
-## Total: $26.43
+## Total: $26.1
