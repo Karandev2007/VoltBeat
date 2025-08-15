@@ -5,7 +5,7 @@ description: "A Portable Dual Bluetooth V5.0 Speaker with Powerbank & custom spe
 created_at: "2025-08-01"
 ---
 
-# Total time spent: 11h
+# Total time spent: 12h
 
 ### July 13 — Time Spent: 2 hours
 
@@ -79,3 +79,16 @@ created_at: "2025-08-01"
 
 - **final look**
 <img width="477" height="328" alt="Fusion360_WlrI8ZnQbt" src="https://github.com/user-attachments/assets/6c9e09fd-1ff5-4059-9050-37b40d2eb301" />
+
+### August 15 - Time Spend: 1h
+- pushed speakers back and added a cover, why? so i can use the mounts of speakers better to give it more stablity and it improved its look too so i did :D (no BOM update)
+
+- made holes on speaker cover lids:
+<img width="380" height="363" alt="Fusion360_bmEiIp3wMY" src="https://github.com/user-attachments/assets/b1d901e9-06e3-46f2-a872-0f62a35a3990" />
+
+- made accurate holes for both side speakers:
+<img width="362" height="313" alt="Fusion360_0OFxzYvxKy" src="https://github.com/user-attachments/assets/ff5bf86d-2109-435c-bc2f-66672d29007e" />
+
+- **final look**:
+<img width="454" height="308" alt="Fusion360_ZnfGRM7Jnf" src="https://github.com/user-attachments/assets/3d550ff2-1317-42c9-99cc-7586612a3cad" />
+<img width="407" height="287" alt="Fusion360_XP4GF5wekj" src="https://github.com/user-attachments/assets/e3008faf-ac2a-45f6-948e-1af298feb561" />
